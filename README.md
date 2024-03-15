@@ -31,8 +31,12 @@
 5. Now place your fingers upon the temperature sensor for 30-60 seconds.
    
    Refer: [2.mp4](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK/blob/main/Output%20Videos/2.mp4)
+
+   ![2gif](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK/blob/main/Output%20Videos/2.gif)
   
 5. Once LED lights up and Buzzer makes sound your body temperature is recorded and based on body temperature feedback is extracted from database and given to you.
   
    Refer: [1.mp4](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK/blob/main/Output%20Videos/1.mp4)
-   
+
+   ![1gif](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK/blob/main/Output%20Videos/1.gif)
+
