@@ -18,6 +18,16 @@
 2. mysql.connector
 3. serial
 
+## How to connect?
+Below are the ways you can connect components to Arduino UNO
+1. LED and Buzzer
+   ![img1](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK/blob/main/Images/LED%20and%20Buzzer.jpg)
+   
+
+2. MAX30205 Body Temperature Sensor
+   
+   ![img2](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK/blob/main/Images/MAX30205.jpeg)
+
 ## Implementation
 1. Upload [MAX30205_buzzer.ino](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK/blob/main/MAX30205_Buzzer/MAX30205_Buzzer.ino) program into Arduino UNO.
 2. Run health.sql to create database
@@ -42,4 +52,5 @@
 
 ## References
 For more understanding of the sensor refer the link below:
-- https://github.com/Protocentral/Protocentral_MAX30205
+1. https://github.com/Protocentral/Protocentral_MAX30205
+2. https://roboindia.com/tutorials/arduino-5v-peizo-buzzer/
