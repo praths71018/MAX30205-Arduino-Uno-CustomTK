@@ -40,3 +40,6 @@
 
    ![1gif](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK/blob/main/Output%20Videos/1.gif)
 
+## References
+For more understanding of the sensor refer the link below:
+- https://github.com/Protocentral/Protocentral_MAX30205
